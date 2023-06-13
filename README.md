@@ -1,3 +1,4 @@
 # northwind-sql-queries
 Queries are answered using following schema
-![image](https://github.com/parte-Ajinkya/parte-Ajinkya-northwind-sql-queries/assets/112530584/617e1321-97e4-414a-b649-7945c643a6be)
+![image](https://github.com/Gss-Hitesh/northwind-sql-queries/assets/81021603/0e02b840-1250-4ae5-aed6-527c42a5da04)
+
